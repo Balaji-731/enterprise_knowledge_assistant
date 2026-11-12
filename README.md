@@ -2,6 +2,8 @@
 
 A secure, permission-aware Enterprise Retrieval-Augmented Generation (RAG) and Hybrid Search platform for **TechNova Solutions Pvt. Ltd.** It enforces **Role-Based (RBAC)** and **Attribute-Based (ABAC)** access controls *before* retrieval and context assembly so unauthorized documents are never retrieved, ranked, or leaked to the LLM.
 
+**GitHub Repository:** https://github.com/Balaji-731/enterprise_knowledge_assistant.git
+
 ---
 
 ## Key Capabilities
